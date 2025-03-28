@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jia Gu, 顾嘉"
+title: "章玮(Wei Zhang)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,21 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-------------------------
-Jia Gu is an assistant professor at the [Center for Data Science](http://cds.zju.edu.cn/), Zhejiang University.
+I am a Ph.D. candidate in statistics at the Center of Statistical Science, School of Mathematical Sciences of [Peking University](https://www.stat-center.pku.edu.cn/), my advisor is Professor [Fang Yao](https://www.math.pku.edu.cn/teachers/yaof/Homepage.html). 
 
-Prior to joining the CDS, he obtained a PhD in statistics from the [Center for Statistical Science](https://www.stat-center.pku.edu.cn/) at Peking University, supervised by Professor [Song Xi Chen](https://www.songxichen.com/).
+My research interests:
 
+- High-dimensional Statistical Inference 
+- Physics Informed Models
+- Functional Data Analysis
+- Causal Inference and Policy Evaluation
+- Applications to Genetic Association Studies
 
-Research Interests
-------------------------
-
-- Distributed Statistical Inference
-- Federated Learning
-- Statistical Inference for stochastic gradient descent
-- Epidemic Modeling
-- Data Fusion
+My [CV](http://zhang_wei.github.io/files/CV-2025-3.pdf){:target="_blank"} can be downloaded here.
 
 
 
