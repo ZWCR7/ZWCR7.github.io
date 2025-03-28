@@ -18,7 +18,7 @@ My research interests:
 - Causal Inference and Policy Evaluation
 - Applications to Genetic Association Studies
 
-My [CV](http://zwcr7.github.io/files/CV-2025-3.pdf){:target="_blank"} can be downloaded here.
+My [CV](http://zwcr7.github.io/files/CV-2025-3.pdf){:target="_blank"} can be downloaded here. Contact: wei_zhang@stu.pku.edu.cn
 
 
 
