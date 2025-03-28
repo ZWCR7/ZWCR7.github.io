@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Jia Gu's Homepage"
+name                     : &name "Wei Zhang's Homepage"
 description              : &description "Statistics"
-url                      : https://jia-gu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zwcr7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jia-gu.github.io"
+repository               : "zwcr7.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jia Gu"
-  avatar           : "me.jpg"
-  bio              : "Email: gujia [at] zju [dot] edu [dot] cn"
-  location         : "Hangzhou, China"
+  name             : "Wei Zhang"
+  avatar           : "photo.jpg"
+  bio              : 
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=hlkePPcAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=VOrukb4AAAAJ&hl=zh-CN"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Jia_Gu16"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jia-gu"
+  github           : "zwcr7"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :  
   lastfm           :
   linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  
   steam            :
   tumblr           :
   twitter          : 
