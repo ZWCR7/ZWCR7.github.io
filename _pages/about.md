@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in statistics at the Center of Statistical Science, School of Mathematical Sciences of [Peking University](https://www.stat-center.pku.edu.cn/), my advisor is Professor [Fang Yao](https://www.math.pku.edu.cn/teachers/yaof/Homepage.html). 
+I am an Assistant Professor at the Department of Statistics and Data Science, School of Management, Fudan University. I received my Ph.D. degree in Statistics at the Center of Statistical Science, School of Mathematical Sciences of [Peking University](https://www.stat-center.pku.edu.cn/), my advisor is Professor [Fang Yao](https://www.math.pku.edu.cn/teachers/yaof/Homepage.html). 
 
 My research interests:
 
@@ -18,7 +18,7 @@ My research interests:
 - Causal Inference and Policy Evaluation
 - Applications to Genetic Association Studies
 
-My [CV](http://zwcr7.github.io/files/CV-2025-3.pdf){:target="_blank"} can be downloaded here. Contact: wei_zhang@stu.pku.edu.cn
+My [CV](http://zwcr7.github.io/files/CV-2025-3.pdf){:target="_blank"} can be downloaded here. Contact:zhangw_fd@fudan.edu.cn
 
 
 
