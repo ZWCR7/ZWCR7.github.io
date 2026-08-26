@@ -1,8 +1,7 @@
 ---
 title: "Machine Learning Theory"
 collection: teaching
-type: "graduate course"
+type: "Expected on Spring 2027"
 permalink: /teaching/SM
 venue: "Fudan University, School of Management"
-date: Expected on Spring 2027
 ---
