@@ -1,8 +1,7 @@
 ---
 title: "Probabilities and Mathematical Statistics"
 collection: teaching
-type: "undergraduate course"
+type: "Autumn 2025, 2026"
 permalink: /teaching/SM
 venue: "Fudan University, School of Management"
-date: Autumn 2025, 2026
 ---
